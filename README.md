@@ -2,6 +2,5 @@
 - 👀 I’m interested in learning new languages (Rust, Python, C#)
 - 🌱 I’m currently learning python.
 
-![Views](https://komarev.com/ghpvc/?username=Zer0625)
 
 
